@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'Material App',
         home: HomeScreen(
-          channelId: "UCvsEgIvO6USEamtfg8mK3Mw",
+          channelId: "UCAq1KgLIm2g8kaOjdxN7UKQ",
         ));
   }
 }
